@@ -23,3 +23,6 @@ These are some of the technologies and tools that I work with:
 
 
 [![Nemuel Sousa GitHub Stats](https://github-readme-stats.vercel.app/api?username=nemuelsousa&show_icons=true)](https://github.com/nemuelsousa)
+
+
+![Snake animation](https://github.com/nemuelsousa/nemuelsousa/blob/output/github-contribution-grid-snake.svg)
