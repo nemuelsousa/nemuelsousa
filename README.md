@@ -1,8 +1,8 @@
-### 👋 Hello!
+## 👋 Hello!
 
 I'm Nemuel Sousa,  I'm Infrastructure analyst at GOVBR, and I've been working in tech since 2016.
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 These are some of the technologies and tools that I work with:
 
