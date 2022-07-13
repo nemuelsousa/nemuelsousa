@@ -2,8 +2,6 @@
 
 I'm Nemuel Sousa,  I'm Infrastructure analyst at GOVBR, and I've been working in tech since 2016.
 
-[![Linkedin: Nemuel Sousa](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nemuel-sousa/)](https://www.linkedin.com/in/nemuel-sousa/)
-
 ## 🛠 Tech Stack
 
 These are some of the technologies and tools that I work with:
@@ -21,6 +19,4 @@ These are some of the technologies and tools that I work with:
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=flat-square&logo=linux&logoColor=black)
 
-[![Nemuel Sousa GitHub Stats](https://github-readme-stats.vercel.app/api?username=nemuelsousa&show_icons=true)](https://github.com/nemuelsousa)
-
-![Snake animation](https://github.com/nemuelsousa/nemuelsousa/blob/output/github-contribution-grid-snake.svg)
+[![Nemuel Sousa GitHub Stats](https://github-readme-stats.vercel.app/api?username=nemuelsousa&show_icons=true&theme=dark)](https://github.com/nemuelsousa)
