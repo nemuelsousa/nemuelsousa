@@ -18,4 +18,4 @@ These are some of the technologies and tools that I work with:
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=flat-square&logo=linux&logoColor=black)
 
-[![Nemuel Sousa GitHub Stats](https://github-readme-stats.vercel.app/api?username=nemuelsousa&show_icons=true&theme=dark)](https://github.com/nemuelsousa)
+[![Nemuel Sousa GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nemuelsousa&show_icons=true&theme=dark)](https://github.com/nemuelsousa)
