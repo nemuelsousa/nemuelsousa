@@ -2,7 +2,6 @@
 
 I'm Nemuel Sousa,  I'm DevOps Engineer at GOVBR, and I've been working in tech since 2016.
 
-[![Linkedin: Nemuel Sousa](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nemuel-sousa/)](https://www.linkedin.com/in/nemuel-sousa/)
 
 ### 🛠 Tech Stack
 
